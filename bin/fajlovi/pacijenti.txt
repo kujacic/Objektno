@@ -1,0 +1,6 @@
+PACIJENT|Pacijent|Pacijentkovic|4455|Dragise B|063|Pacijent|pacijent|IgorIgor|5|MUSKI
+PACIJENT|Mirko|Mircevic|400|adresa2|063|Mirko|mirko|IgorIgor|7|MUSKI
+PACIJENT|Stefan|Rakic|654|Mise Dim|061|Raka|raka|korisnickoIme1|1|MUSKI
+PACIJENT|Janko|Jankovic|4321|adresa1|062|Janko|janko|korisnickoIme1|2|MUSKI
+PACIJENT|Darko|Darkovic|5432|adresa|064|Darko|darko|jovan|3|MUSKI
+PACIJENT|Dragica|Dragic|0987|adresa|0321|Dragica|dragica|Milica|4|ZENSKI

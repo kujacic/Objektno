@@ -1,0 +1,4 @@
+LEKAR|Milan|Milanovic|jmbg1|Adresa1|broj telefona1|korisnickoIme1|lozinka|30000|specijalizacija1|ZENSKI|SLUZBA_ZDRAVSTVENE_ZASTITE_RADNIKA
+LEKAR|Igor|Igorovic|0123123|Drage Spasica|0521414|IgorIgor|igorigor|60000|Zubar|ZENSKI|SLUZBA_ZDRAVSTVENE_ZASTITE_RADNIKA
+LEKAR|Jovan|Jovanovic|890|hjk8|89|jovan|jovan|789|Neka specijalizacija|MUSKI|SLUZBA_OPSTE_MEDICINE
+LEKAR|Milica|Milovic|21345|adresa|062|Milica|milica|60000|Hirurg|ZENSKI|SLUZBA_ZDRAVSTVENE_ZASTITE_DECE
